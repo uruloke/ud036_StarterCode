@@ -1,3 +1,4 @@
+# The model for holding information about a movie.
 class Movie:
     def __init__(self, title, poster_image_url, trailer_youtube_url):
         self.title = title
